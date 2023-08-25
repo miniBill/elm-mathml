@@ -52,7 +52,7 @@ import VirtualDom exposing (Attribute, Node, nodeNS)
 
 node : String -> List (Attribute msg) -> List (Node msg) -> Node msg
 node =
-    nodeNS "http://www.w3.org/1998/Math/MathML)"
+    nodeNS "http://www.w3.org/1998/Math/MathML"
 
 
 {-| -}
