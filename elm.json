@@ -1,9 +1,9 @@
 {
     "type": "package",
-    "name": "brainrape/elm-mathml",
+    "name": "miniBill/elm-mathml",
     "summary": "MathML for Elm",
     "license": "MIT",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "exposed-modules": [
         "MathML",
         "MathML.Attributes"
